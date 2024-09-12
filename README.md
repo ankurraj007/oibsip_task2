@@ -1,6 +1,6 @@
 # Tribute Page   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-This repository contains a Tribute Page developed as part of my internship at Oasis Infobyte. The page is a dedication to [Insert Person's Name], highlighting their life, achievements, and legacy through a well-designed, responsive webpage.
+This repository contains a Tribute Page developed as part of my internship at Oasis Infobyte. The page is a dedication to Rajneesh 'Osho', highlighting their life, achievements, and legacy through a well-designed, responsive webpage.
 
 ## Features
 
